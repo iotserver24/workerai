@@ -26,4 +26,4 @@ This is still a work in progress, and we are constantly improving the platform. 
 
 ## How It Works
 
-Provide a brief overview of the technology and architecture behind the AI Chat Platform. Explain how Cloudflare Workers and Worker AI are utilized to deliver a seamless chat experience.
+Provide a brief overview of the technology and architecture behind the AI Chat Platform. Explain how Cloudflare Workers and Worker A\I are utilized to deliver a seamless chat experience.
